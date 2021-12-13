@@ -30,7 +30,7 @@ The second diagram shows the current arhcitecture which can be scaled using `doc
 
 ## Alternate testing steps if docker-compose fails
 
-Although, I have created both the docker and docker compose files, I didnt get a chance to test them because docker kept crashing on my personal computer and I didnt have the time to troubleshoot.
+Although, I have created both the docker and docker compose files, I didnt get a chance to test them because docker kept crashing on my personal computer and I didnt have the time to troubleshoot. I was only able to get less than 2 hours to work on this. 
 
 So, if you try running the docker compose and it fails for any reason please test using a virtualenv by following this steps.
 
